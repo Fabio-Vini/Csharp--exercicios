@@ -10,13 +10,13 @@ namespace CSharp_Shell
     {
         public static void Main() 
         {
-		/*As maçãs custam	R$0,30 cada se forem compradas menos do que	uma	
-		dúzia, e R$0,25 se forem compradas pelo menos doze.Escreva um	programa que leia o	 
-		número de maçãs compradas, calcule e escreva o valor	total	da	compra.*/
+		/*As maçãs custam R$0,30 cada se forem compradas menos do que uma	
+		dúzia, e R$0,25 se forem compradas pelo menos doze.Escreva um programa que leia o	 
+		número de maçãs compradas, calcule e escreva o valor total da compra.*/
     
     		double menor, maior;
     
-    		Console.WriteLine("Digite a quantidade de maçãs que quer comprar:");
+    		Console.WriteLine("Digite a quantidade de maçãs que quer comprar: ");
     		double qtd = double.Parse(Console.ReadLine());
 
     		maior = 0.30 * qtd;
