@@ -1,34 +1,37 @@
 using System;
-using System.IO;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace CSharp_Shell
+namespace ConsoleApp1
 {
-
-    public static class Program 
+    class Program
     {
-        public static void Main() 
+        static void Main(string[] args)
         {
-        	
-        	/*1. Escreva um programa para ler 2 valores 
-        	(considere que não serão informados valores 
-        	iguais) e escrever o maior deles.*/
-        	
-           Console.WriteLine("Digite o primeiro valor: ");
-           double v1 = double.Parse(Console.ReadLine());
-           
-           Console.WriteLine("Digite o segundo valor: ");
-           double v2 = double.Parse(Console.ReadLine());
-           
-           if(v1 > v2)
-           {
-           	Console.WriteLine("O primeiro valor é maior");
-           }
-           else
-           {
-           	Console.WriteLine("O segundo  valor é maior");
-           }
+        inicio:
+            Console.WriteLine();
+            Console.Write("Digite o primeiro valor: ");
+            double v1 = double.Parse(Console.ReadLine());
+
+            Console.Write("Digite o segundo valor: ");
+            double v2 = double.Parse(Console.ReadLine());
+
+            if (v1 > v2)
+            {
+                Console.WriteLine("O primeiro valor é maior");
+            }
+            else if(v1 == v2)
+            {
+                Console.WriteLine("Não digite valores iguais!");
+                goto inicio;
+            }
+            else
+            {
+                Console.WriteLine("O segundo  valor é maior");
+            }
+            Console.ReadKey();
         }
     }
 }
