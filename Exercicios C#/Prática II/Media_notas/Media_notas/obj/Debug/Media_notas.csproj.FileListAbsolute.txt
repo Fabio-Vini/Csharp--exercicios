@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Media_notas\Media_notas\bin\Debug\Media_notas.exe.config
+C:\Users\fabin\source\repos\Media_notas\Media_notas\bin\Debug\Media_notas.exe
+C:\Users\fabin\source\repos\Media_notas\Media_notas\bin\Debug\Media_notas.pdb
+C:\Users\fabin\source\repos\Media_notas\Media_notas\obj\Debug\Media_notas.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Media_notas\Media_notas\obj\Debug\Media_notas.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Media_notas\Media_notas\obj\Debug\Media_notas.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Media_notas\Media_notas\obj\Debug\Media_notas.exe
+C:\Users\fabin\source\repos\Media_notas\Media_notas\obj\Debug\Media_notas.pdb

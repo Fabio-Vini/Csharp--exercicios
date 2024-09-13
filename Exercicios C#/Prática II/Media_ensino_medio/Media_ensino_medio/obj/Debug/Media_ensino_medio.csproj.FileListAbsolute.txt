@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\bin\Debug\Media_ensino_medio.exe.config
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\bin\Debug\Media_ensino_medio.exe
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\bin\Debug\Media_ensino_medio.pdb
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\obj\Debug\Media_ensino_medio.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\obj\Debug\Media_ensino_medio.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\obj\Debug\Media_ensino_medio.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\obj\Debug\Media_ensino_medio.exe
+C:\Users\fabin\source\repos\Media_ensino_medio\Media_ensino_medio\obj\Debug\Media_ensino_medio.pdb

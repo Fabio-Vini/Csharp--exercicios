@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\bin\Debug\Rendimento_aplicacao.exe.config
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\bin\Debug\Rendimento_aplicacao.exe
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\bin\Debug\Rendimento_aplicacao.pdb
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\obj\Debug\Rendimento_aplicacao.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\obj\Debug\Rendimento_aplicacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\obj\Debug\Rendimento_aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\obj\Debug\Rendimento_aplicacao.exe
+C:\Users\fabin\source\repos\Rendimento_aplicacao\Rendimento_aplicacao\obj\Debug\Rendimento_aplicacao.pdb
